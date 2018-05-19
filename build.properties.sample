@@ -1,0 +1,16 @@
+## database information
+db.url=jdbc:mysql://localhost/techit2?useSSL=false
+db.username=xxxx
+db.password=xxxx
+
+## email server information
+mail.smtp.server=localhost
+mail.smtp.username=xxxxx
+mail.smtp.password=xxxxx
+
+## log level and log file
+log.level=debug
+log.file=C:/techit2/techit.log
+
+## the directory where uploaded files will be saved
+file.dir=C:/techit2/files
